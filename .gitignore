@@ -1,0 +1,22 @@
+# Kaggle dataset - do not commit
+data/
+
+# Trained models/checkpoints
+models/
+
+# Generated Kaggle submissions
+submissions/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environment
+.env
+.venv/
+venv/
+
+# OS files
+.DS_Store
+Thumbs.db
